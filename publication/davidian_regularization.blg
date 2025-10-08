@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: davidian_regularization.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--empty journal in cohen1988statistical
+Warning--empty journal in kubat1997addressing
+Warning--there's a number but no volume in tomek1976two
+Warning--there's a number but no volume in wilson1972asymptotic
+You've used 25 entries,
+            2118 wiz_defined-function locations,
+            659 strings with 8546 characters,
+and the built_in function-call counts, 9010 in all, are:
+= -- 918
+> -- 390
+< -- 6
++ -- 160
+- -- 130
+* -- 669
+:= -- 1475
+add.period$ -- 76
+call.type$ -- 25
+change.case$ -- 137
+chr.to.int$ -- 0
+cite$ -- 29
+duplicate$ -- 323
+empty$ -- 697
+format.name$ -- 130
+if$ -- 1861
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 26
+newline$ -- 128
+num.names$ -- 50
+pop$ -- 119
+preamble$ -- 1
+purify$ -- 113
+quote$ -- 0
+skip$ -- 231
+stack$ -- 0
+substring$ -- 715
+swap$ -- 68
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 98
+warning$ -- 4
+while$ -- 98
+width$ -- 27
+write$ -- 275
+(There were 4 warnings)
