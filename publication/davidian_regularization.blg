@@ -4,48 +4,47 @@ The top-level auxiliary file: davidian_regularization.aux
 The style file: plain.bst
 Database file #1: references.bib
 Warning--empty journal in cohen1988statistical
-Warning--empty journal in kubat1997addressing
 Warning--there's a number but no volume in tomek1976two
 Warning--there's a number but no volume in wilson1972asymptotic
 You've used 25 entries,
             2118 wiz_defined-function locations,
-            659 strings with 8546 characters,
-and the built_in function-call counts, 9010 in all, are:
-= -- 918
-> -- 390
-< -- 6
+            659 strings with 8552 characters,
+and the built_in function-call counts, 9164 in all, are:
+= -- 932
+> -- 391
+< -- 8
 + -- 160
 - -- 130
-* -- 669
-:= -- 1475
+* -- 673
+:= -- 1482
 add.period$ -- 76
 call.type$ -- 25
 change.case$ -- 137
 chr.to.int$ -- 0
-cite$ -- 29
-duplicate$ -- 323
-empty$ -- 697
+cite$ -- 28
+duplicate$ -- 337
+empty$ -- 717
 format.name$ -- 130
-if$ -- 1861
+if$ -- 1910
 int.to.chr$ -- 0
 int.to.str$ -- 25
-missing$ -- 26
+missing$ -- 27
 newline$ -- 128
 num.names$ -- 50
-pop$ -- 119
+pop$ -- 126
 preamble$ -- 1
-purify$ -- 113
+purify$ -- 114
 quote$ -- 0
-skip$ -- 231
+skip$ -- 245
 stack$ -- 0
-substring$ -- 715
-swap$ -- 68
-text.length$ -- 6
+substring$ -- 722
+swap$ -- 80
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 98
-warning$ -- 4
-while$ -- 98
+type$ -- 96
+warning$ -- 3
+while$ -- 99
 width$ -- 27
-write$ -- 275
-(There were 4 warnings)
+write$ -- 277
+(There were 3 warnings)

@@ -6,7 +6,7 @@ Sylvain Arlot and Alain Celisse.
 \newblock {\em Statistics surveys}, 4:40--79, 2010.
 
 \bibitem{bischl2012resampling}
-Bernd Bischl, Olaf Mersmann, Heike Trautmann, and Mike Preuß.
+Bernd Bischl, Olaf Mersmann, Heike Trautmann, and Claus Weihs.
 \newblock Resampling methods for meta-model validation with recommendations for
   evolutionary computation.
 \newblock {\em Evolutionary computation}, 20(2):249--275, 2012.
@@ -35,8 +35,8 @@ Charles Elkan.
 \bibitem{fernandez2018learning}
 Alberto Fern{\'a}ndez, Salvador Garc{\'\i}a, Mikel Galar, Ronaldo~C Prati,
   Bartosz Krawczyk, and Francisco Herrera.
-\newblock Learning from imbalanced data sets.
-\newblock {\em Springer}, 2018.
+\newblock {\em Learning from imbalanced data sets}.
+\newblock Springer, 2018.
 
 \bibitem{garcia2012effectiveness}
 Vicente Garc{\'\i}a, Ram{\'o}n~A Mollineda, and Jos{\'e}~Salvador S{\'a}nchez.
@@ -45,8 +45,8 @@ Vicente Garc{\'\i}a, Ram{\'o}n~A Mollineda, and Jos{\'e}~Salvador S{\'a}nchez.
 \newblock {\em Knowledge-Based Systems}, 25(1):13--21, 2012.
 
 \bibitem{haixiang2017learning}
-Guo Haixiang, Li~Yijing, Jennifer Shang, Gu~Mingyun, Huang Yuanyue, and Gong
-  Bing.
+Haixiang Guo, Yijing Li, Jennifer Shang, Mingyun Gu, Yuanyue Huang, and Bing
+  Gong.
 \newblock Learning from class-imbalanced data: Review of methods and
   applications.
 \newblock {\em Expert systems with applications}, 73:220--239, 2017.
@@ -95,10 +95,11 @@ Bartosz Krawczyk.
 \newblock {\em Progress in Artificial Intelligence}, 5(4):221--232, 2016.
 
 \bibitem{kubat1997addressing}
-Miroslav Kubat, Stan Matwin, et~al.
+Miroslav Kubat and Stan Matwin.
 \newblock Addressing the curse of imbalanced training sets: one-sided
   selection.
-\newblock 97:179--186, 1997.
+\newblock In {\em International conference on machine learning}, volume~97,
+  pages 179--186, 1997.
 
 \bibitem{liu2009exploratory}
 Xu-Ying Liu, Jianxin Wu, and Zhi-Hua Zhou.
@@ -145,7 +146,7 @@ Dennis~L Wilson.
   (3):408--421, 1972.
 
 \bibitem{wong2019reliable}
-Tzu-Tsung Wong.
+Tzu-Tsung Wong and Po-Yang Yeh.
 \newblock Reliable accuracy estimates from k-fold cross validation.
 \newblock {\em IEEE Transactions on Knowledge and Data Engineering},
   32(8):1586--1594, 2019.

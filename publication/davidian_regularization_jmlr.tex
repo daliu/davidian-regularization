@@ -1,9 +1,9 @@
 \documentclass[twoside,11pt]{article}
 
-% JMLR-specific packages (you'll need to download jmlr2e.sty from https://jmlr.org/format/)
+% JMLR-specific packages (jmlr2e.sty file is corrupted, using standard formatting)
 % \usepackage{jmlr2e}
 
-% For now, using standard packages until you get jmlr2e.sty
+% Standard packages
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -24,14 +24,13 @@
 % Title and author info
 \title{Stability Bonus Davidian Regularization: A Reward-Based Alternative to Minority Class Rebalancing}
 
-\author{\name David C. Liu \email 50685071@proton.me \\
-       \addr Independent Researcher}
+\author{David C. Liu\\
+Independent Researcher\\
+\texttt{50685071@proton.me}}
 
-% Running title (max 50 characters)
-\newcommand{\ShortHeadings}{Stability Bonus Davidian Regularization}{Liu}
-
-% Keywords
-\newcommand{\Keywords}{class imbalance, regularization, cross-validation, model selection, machine learning}
+% Note: Running title and keywords would normally use JMLR commands
+% \ShortHeadings{Stability Bonus Davidian Regularization}{Liu}
+% \Keywords{class imbalance, regularization, cross-validation, model selection, machine learning}
 
 \begin{document}
 
@@ -41,9 +40,7 @@
 Traditional approaches to handling class imbalance rely on rebalancing techniques such as oversampling, undersampling, or class weighting. We propose \textbf{Stability Bonus Davidian Regularization}, a novel reward-based regularization method that serves as an effective alternative to minority class rebalancing. Through comprehensive experimental validation across 304 experiments on both synthetic and real-world datasets, we demonstrate that our method achieves consistent 15-20\% performance improvements over traditional approaches. The key insight is that reward-based positive reinforcement (rewarding models with small train-validation gaps) is more effective than punishment-based approaches (penalizing all gaps) for guiding model selection toward better generalization. Our method addresses a fundamental statistical flaw in the original Davidian Regularization formulation: indiscriminate penalization of train-validation discrepancies that often contain legitimate signal rather than just overfitting noise. The Stability Bonus variant preserves this signal while selectively rewarding clear cases of good generalization, resulting in superior model selection and performance.
 \end{abstract}
 
-\begin{keywords}
-class imbalance, regularization, cross-validation, model selection, machine learning
-\end{keywords}
+\noindent \textbf{Keywords:} class imbalance, regularization, cross-validation, model selection, machine learning
 
 \section{Introduction}
 
