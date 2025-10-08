@@ -11,8 +11,8 @@ Sylvain Arlot and Alain Celisse.
 \newblock \emph{Statistics surveys}, 4:\penalty0 40--79, 2010.
 
 \bibitem[Bischl et~al.(2012)Bischl, Mersmann, Trautmann, and
-  Preuß]{bischl2012resampling}
-Bernd Bischl, Olaf Mersmann, Heike Trautmann, and Mike Preuß.
+  Weihs]{bischl2012resampling}
+Bernd Bischl, Olaf Mersmann, Heike Trautmann, and Claus Weihs.
 \newblock Resampling methods for meta-model validation with recommendations for
   evolutionary computation.
 \newblock \emph{Evolutionary computation}, 20\penalty0 (2):\penalty0 249--275,
@@ -45,8 +45,8 @@ Charles Elkan.
   Krawczyk, and Herrera]{fernandez2018learning}
 Alberto Fern{\'a}ndez, Salvador Garc{\'\i}a, Mikel Galar, Ronaldo~C Prati,
   Bartosz Krawczyk, and Francisco Herrera.
-\newblock Learning from imbalanced data sets.
-\newblock \emph{Springer}, 2018.
+\newblock \emph{Learning from imbalanced data sets}.
+\newblock Springer, 2018.
 
 \bibitem[Garc{\'\i}a et~al.(2012)Garc{\'\i}a, Mollineda, and
   S{\'a}nchez]{garcia2012effectiveness}
@@ -56,10 +56,10 @@ Vicente Garc{\'\i}a, Ram{\'o}n~A Mollineda, and Jos{\'e}~Salvador S{\'a}nchez.
 \newblock \emph{Knowledge-Based Systems}, 25\penalty0 (1):\penalty0 13--21,
   2012.
 
-\bibitem[Haixiang et~al.(2017)Haixiang, Yijing, Shang, Mingyun, Yuanyue, and
-  Bing]{haixiang2017learning}
-Guo Haixiang, Li~Yijing, Jennifer Shang, Gu~Mingyun, Huang Yuanyue, and Gong
-  Bing.
+\bibitem[Guo et~al.(2017)Guo, Li, Shang, Gu, Huang, and
+  Gong]{haixiang2017learning}
+Haixiang Guo, Yijing Li, Jennifer Shang, Mingyun Gu, Yuanyue Huang, and Bing
+  Gong.
 \newblock Learning from class-imbalanced data: Review of methods and
   applications.
 \newblock \emph{Expert systems with applications}, 73:\penalty0 220--239, 2017.
@@ -110,11 +110,12 @@ Bartosz Krawczyk.
 \newblock \emph{Progress in Artificial Intelligence}, 5\penalty0 (4):\penalty0
   221--232, 2016.
 
-\bibitem[Kubat et~al.(1997)Kubat, Matwin, et~al.]{kubat1997addressing}
-Miroslav Kubat, Stan Matwin, et~al.
+\bibitem[Kubat and Matwin(1997)]{kubat1997addressing}
+Miroslav Kubat and Stan Matwin.
 \newblock Addressing the curse of imbalanced training sets: one-sided
   selection.
-\newblock 97:\penalty0 179--186, 1997.
+\newblock In \emph{International conference on machine learning}, volume~97,
+  pages 179--186, 1997.
 
 \bibitem[Liu et~al.(2009)Liu, Wu, and Zhou]{liu2009exploratory}
 Xu-Ying Liu, Jianxin Wu, and Zhi-Hua Zhou.
@@ -163,8 +164,8 @@ Dennis~L Wilson.
 \newblock \emph{IEEE Transactions on Systems, Man, and Cybernetics}, \penalty0
   (3):\penalty0 408--421, 1972.
 
-\bibitem[Wong(2019)]{wong2019reliable}
-Tzu-Tsung Wong.
+\bibitem[Wong and Yeh(2019)]{wong2019reliable}
+Tzu-Tsung Wong and Po-Yang Yeh.
 \newblock Reliable accuracy estimates from k-fold cross validation.
 \newblock \emph{IEEE Transactions on Knowledge and Data Engineering},
   32\penalty0 (8):\penalty0 1586--1594, 2019.
