@@ -1,0 +1,37 @@
+# Requirements for Stability Bonus Davidian Regularization Research
+# 
+# This file lists all dependencies needed to reproduce the experimental
+# validation and generate publication-ready results.
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Data processing
+joblib>=1.0.0
+
+# Jupyter (optional, for interactive analysis)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Development and testing
+pytest>=6.0.0
+pytest-cov>=2.12.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
+
+# LaTeX support (optional)
+# Note: Requires LaTeX installation on system
+# texlive-latex-base
+# texlive-latex-extra
+# texlive-fonts-recommended

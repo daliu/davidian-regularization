@@ -1,0 +1,153 @@
+\begin{thebibliography}{10}
+
+\bibitem{arlot2010survey}
+Sylvain Arlot and Alain Celisse.
+\newblock A survey of cross-validation procedures for model selection.
+\newblock {\em Statistics surveys}, 4:40--79, 2010.
+
+\bibitem{bischl2012resampling}
+Bernd Bischl, Olaf Mersmann, Heike Trautmann, and Mike Preuß.
+\newblock Resampling methods for meta-model validation with recommendations for
+  evolutionary computation.
+\newblock {\em Evolutionary computation}, 20(2):249--275, 2012.
+
+\bibitem{breiman2001random}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Machine learning}, 45(1):5--32, 2001.
+
+\bibitem{chawla2002smote}
+Nitesh~V Chawla, Kevin~W Bowyer, Lawrence~O Hall, and W~Philip Kegelmeyer.
+\newblock Smote: synthetic minority oversampling technique.
+\newblock {\em Journal of artificial intelligence research}, 16:321--357, 2002.
+
+\bibitem{cohen1988statistical}
+Jacob Cohen.
+\newblock Statistical power analysis for the behavioral sciences.
+\newblock 1988.
+
+\bibitem{elkan2001foundations}
+Charles Elkan.
+\newblock The foundations of cost-sensitive learning.
+\newblock In {\em International joint conference on artificial intelligence},
+  volume~17, pages 973--978, 2001.
+
+\bibitem{fernandez2018learning}
+Alberto Fern{\'a}ndez, Salvador Garc{\'\i}a, Mikel Galar, Ronaldo~C Prati,
+  Bartosz Krawczyk, and Francisco Herrera.
+\newblock Learning from imbalanced data sets.
+\newblock {\em Springer}, 2018.
+
+\bibitem{garcia2012effectiveness}
+Vicente Garc{\'\i}a, Ram{\'o}n~A Mollineda, and Jos{\'e}~Salvador S{\'a}nchez.
+\newblock On the effectiveness of preprocessing methods when dealing with
+  different levels of class imbalance.
+\newblock {\em Knowledge-Based Systems}, 25(1):13--21, 2012.
+
+\bibitem{haixiang2017learning}
+Guo Haixiang, Li~Yijing, Jennifer Shang, Gu~Mingyun, Huang Yuanyue, and Gong
+  Bing.
+\newblock Learning from class-imbalanced data: Review of methods and
+  applications.
+\newblock {\em Expert systems with applications}, 73:220--239, 2017.
+
+\bibitem{han2005borderline}
+Hui Han, Wen-Yuan Wang, and Bing-Huan Mao.
+\newblock Borderline-smote: a new over-sampling method in imbalanced data sets
+  learning.
+\newblock In {\em International conference on intelligent computing}, pages
+  878--887. Springer, 2005.
+
+\bibitem{hastie2009elements}
+Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
+\newblock {\em The elements of statistical learning: data mining, inference,
+  and prediction}.
+\newblock Springer Science \& Business Media, 2009.
+
+\bibitem{he2008adasyn}
+Haibo He, Yang Bai, Edwardo~A Garcia, and Shutao Li.
+\newblock Adasyn: Adaptive synthetic sampling approach for imbalanced learning.
+\newblock {\em IEEE international joint conference on neural networks}, pages
+  1322--1328, 2008.
+
+\bibitem{japkowicz2002class}
+Nathalie Japkowicz and Shaju Stephen.
+\newblock The class imbalance problem: A systematic study.
+\newblock {\em Intelligent data analysis}, 6(5):429--449, 2002.
+
+\bibitem{kim2009estimating}
+Ji-Hyun Kim.
+\newblock Estimating classification error rate: Repeated cross-validation,
+  repeated hold-out and bootstrap.
+\newblock {\em Computational statistics \& data analysis}, 53(11):3735--3745,
+  2009.
+
+\bibitem{kohavi1995study}
+Ron Kohavi et~al.
+\newblock A study of cross-validation and bootstrap for accuracy estimation and
+  model selection.
+\newblock In {\em International joint conference on artificial intelligence},
+  volume~14, pages 1137--1145, 1995.
+
+\bibitem{krawczyk2016learning}
+Bartosz Krawczyk.
+\newblock Learning from imbalanced data: open challenges and future directions.
+\newblock {\em Progress in Artificial Intelligence}, 5(4):221--232, 2016.
+
+\bibitem{kubat1997addressing}
+Miroslav Kubat, Stan Matwin, et~al.
+\newblock Addressing the curse of imbalanced training sets: one-sided
+  selection.
+\newblock 97:179--186, 1997.
+
+\bibitem{liu2009exploratory}
+Xu-Ying Liu, Jianxin Wu, and Zhi-Hua Zhou.
+\newblock Exploratory undersampling for class-imbalance learning.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B},
+  39(2):539--550, 2009.
+
+\bibitem{santos2018cross}
+Miriam~Seoane Santos, Jastin~Pompeu Soares, Pedro~Henriques Abreu, Helder
+  Araujo, and Joao Santos.
+\newblock Cross-validation for imbalanced datasets: avoiding overoptimistic and
+  overfitting approaches.
+\newblock {\em IEEE computational intelligence magazine}, 13(4):59--76, 2018.
+
+\bibitem{srivastava2014dropout}
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+  Salakhutdinov.
+\newblock Dropout: a simple way to prevent neural networks from overfitting.
+\newblock {\em The journal of machine learning research}, 15(1):1929--1958,
+  2014.
+
+\bibitem{stone1974cross}
+Mervyn Stone.
+\newblock Cross-validatory choice and assessment of statistical predictions.
+\newblock {\em Journal of the royal statistical society: Series B
+  (Methodological)}, 36(2):111--147, 1974.
+
+\bibitem{tibshirani1996regression}
+Robert Tibshirani.
+\newblock Regression shrinkage and selection via the lasso.
+\newblock {\em Journal of the Royal Statistical Society: Series B},
+  58(1):267--288, 1996.
+
+\bibitem{tomek1976two}
+Ivan Tomek.
+\newblock Two modifications of cnn.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics},
+  (6):769--772, 1976.
+
+\bibitem{wilson1972asymptotic}
+Dennis~L Wilson.
+\newblock Asymptotic properties of nearest neighbor rules using edited data.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics},
+  (3):408--421, 1972.
+
+\bibitem{wong2019reliable}
+Tzu-Tsung Wong.
+\newblock Reliable accuracy estimates from k-fold cross validation.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  32(8):1586--1594, 2019.
+
+\end{thebibliography}
